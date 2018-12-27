@@ -4,6 +4,8 @@
 
 ## Personal recognition
 
+Detect Person and Re-Identification Person.    
+
 [AlignedReID: Surpassing Human-Level Performance in Person Re-Identification](https://arxiv.org/abs/1711.08184)
 
 [Joint Detection and Identification Feature Learning for Person Search](https://arxiv.org/abs/1604.01850)
